@@ -1,0 +1,9 @@
+Enter data
+rohanda
+data is rohanda
+Enter data
+hamed
+data is hamed
+Enter data
+stop
+data is stop
